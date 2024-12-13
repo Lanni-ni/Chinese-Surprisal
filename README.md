@@ -1,2 +1,2 @@
 # Chinese-Surprisal
-test the predictions of surprisal theory in Chinese
+Test the predictions of surprisal theory in Chinese
